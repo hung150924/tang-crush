@@ -1,5 +1,5 @@
 const  CONFIG   = {
-    introTitle : 'Thảo'
+    introTitle :        'Heo'
     introDesc : Thường   lệ   vốn   trái   đất
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
